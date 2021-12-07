@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c1b19cf.chunk.css",
+    "main.js": "/static/js/main.a8f71ccf.chunk.js",
+    "main.js.map": "/static/js/main.a8f71ccf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8bc61712.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8bc61712.js.map",
+    "static/js/2.71169a1c.chunk.js": "/static/js/2.71169a1c.chunk.js",
+    "static/js/2.71169a1c.chunk.js.map": "/static/js/2.71169a1c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3c1b19cf.chunk.css.map": "/static/css/main.3c1b19cf.chunk.css.map",
+    "static/js/2.71169a1c.chunk.js.LICENSE.txt": "/static/js/2.71169a1c.chunk.js.LICENSE.txt",
+    "static/media/logo.2c03753f.png": "/static/media/logo.2c03753f.png",
+    "static/media/lotto.04917be7.png": "/static/media/lotto.04917be7.png",
+    "static/media/paper.c93d1730.png": "/static/media/paper.c93d1730.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bc61712.js",
+    "static/js/2.71169a1c.chunk.js",
+    "static/css/main.3c1b19cf.chunk.css",
+    "static/js/main.a8f71ccf.chunk.js"
+  ]
+}
